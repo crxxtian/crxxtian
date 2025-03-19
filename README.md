@@ -29,7 +29,6 @@
 ![Proofpoint](https://img.shields.io/badge/Proofpoint-Email_Security-purple?style=for-the-badge)  
 ![Netskope](https://img.shields.io/badge/Netskope-Secure_Web_Gateway-0057FF?style=for-the-badge)  
 ![Tripwire](https://img.shields.io/badge/Tripwire-File_Integrity_Monitoring-FF6C37?style=for-the-badge)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
 ![Azure Sentinel](https://img.shields.io/badge/Azure_Sentinel-Threat_Intelligence-blue?style=for-the-badge)  
 ![Google Chronicle](https://img.shields.io/badge/Google_Chronicle-Threat_Hunting-green?style=for-the-badge)  
 
