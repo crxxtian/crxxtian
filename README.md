@@ -1,12 +1,3 @@
-
-                  
-                  _           
-   __      _ _   (_)    ___   
-  / _|    | '_|  | |   (_-<   
-  \__|_  _|_|_  _|_|_  /__/_  
-_|"""""_|"""""_|"""""_|"""""| 
-"`-0-0-"`-0-0-"`-0-0-"`-0-0-'
-
 <h1 align="center"> B.S Cybersecurity Graduate 🛡️ | Red Team Enthusiast 🏴‍☠️ | FinTech 📈 </h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F70000&width=600&lines=Cybersecurity+Engineer;Red+Teamer+%7C+OSINT+Investigator;Exploit+Development+%7C+Threat+Hunting)](https://git.io/typing-svg)
