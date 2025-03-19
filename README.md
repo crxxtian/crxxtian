@@ -1,4 +1,3 @@
-<h1 align="center"> B.S Cybersecurity Graduate 🛡️ | Red Team Enthusiast 🏴‍☠️ | FinTech 📈 </h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F70000&width=600&lines=Cybersecurity+Engineer;Red+Teamer+%7C+OSINT+Investigator;Exploit+Development+%7C+Threat+Hunting)](https://git.io/typing-svg)
 
@@ -9,8 +8,7 @@
 ---
 
 ## 👨‍💻 **Who Am I?**
-- 🔥 Cybersecurity Engineer & Breaker | Ethical Hacker | Red Teamer  
-- 🚀 Red Teaming, OSINT, Web Exploitation, Malware Analysis  
+- 🔥 Cybersecurity Student & Engineer | Web Hacking Enthusiast | CTF Addict  
 - ⚔️ Passion for all things cyber.  
 - 📜 Certifications: AWS CCP, AWS SAA (More coming!)  
 - 💻 Programming: Python, Bash, PowerShell, C++, Java, JavaScript  
