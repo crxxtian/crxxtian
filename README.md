@@ -18,7 +18,7 @@
 
 ---
 
-**Some tools I have experience in:**
+**Some tools I have experience with:**
 
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6C37?style=for-the-badge&logo=burp-suite&logoColor=white)  
 ![Metasploit](https://img.shields.io/badge/Metasploit-Blue?style=for-the-badge&logo=metasploit&logoColor=white)  
