@@ -8,15 +8,68 @@
 ---
 
 ## 👨‍💻 **Who Am I?**
-- 🔥 Cybersecurity Student & Engineer | Web Hacking Enthusiast | CTF Addict  
-- ⚔️ Passion for all things cyber.  
-- 📜 Certifications: AWS CCP, AWS SAA (More coming!)  
+- 🔥 Cybersecurity Student & Engineer | Web Hacking Enthusiast | CTF Addict
+- 🔍 Security Researcher & Cyber Enthusiast
+- 📜 AWS SAA, AWS CCP, VMware DCV Certified
 - 💻 Programming: Python, Bash, PowerShell, C++, Java, JavaScript  
-- 💡 Always learning and reading.  
+- ⚔️ Passion for all things cyber.  
+- 💡 Always breaking, fixing, and learning.
+
+### 🔥 **Offensive Security (Red Team)**
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6C37?style=for-the-badge&logo=burp-suite&logoColor=white)  
+![Metasploit](https://img.shields.io/badge/Metasploit-Blue?style=for-the-badge&logo=metasploit&logoColor=white)  
+![Cobalt Strike](https://img.shields.io/badge/Cobalt_Strike-Black?style=for-the-badge)  
+![BloodHound](https://img.shields.io/badge/BloodHound-Active_Directory-blue?style=for-the-badge)  
+![CrackMapExec](https://img.shields.io/badge/CrackMapExec-Purple?style=for-the-badge)  
+![Mimikatz](https://img.shields.io/badge/Mimikatz-Red?style=for-the-badge)  
+![Impacket](https://img.shields.io/badge/Impacket-Yellow?style=for-the-badge)  
+![Responder](https://img.shields.io/badge/Responder-LLMNR_NBT-FF0000?style=for-the-badge)  
+![Rubeus](https://img.shields.io/badge/Rubeus-Kerberos_Golden_Ticket-darkred?style=for-the-badge)  
+![PowerView](https://img.shields.io/badge/PowerView-Active_Directory_Enum-blue?style=for-the-badge)  
+![SharpHound](https://img.shields.io/badge/SharpHound-BloodHound_Collector-Blue?style=for-the-badge)  
+![nmap](https://img.shields.io/badge/nmap-Network_Scanner-1E74BB?style=for-the-badge&logo=nmap&logoColor=white)  
+
+---
+### 🛡 **Defensive Security (Blue Team)**
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)  
+![CrowdStrike](https://img.shields.io/badge/CrowdStrike-FF0000?style=for-the-badge)  
+![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)  
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
+![Proofpoint](https://img.shields.io/badge/Proofpoint-Email_Security-purple?style=for-the-badge)  
+![Netskope](https://img.shields.io/badge/Netskope-Secure_Web_Gateway-0057FF?style=for-the-badge)  
+![Tripwire](https://img.shields.io/badge/Tripwire-File_Integrity_Monitoring-FF6C37?style=for-the-badge)  
+
+---
+### ☁ **Cloud & Virtualization**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)  
+![Azure Sentinel](https://img.shields.io/badge/Azure_Sentinel-Threat_Intelligence-blue?style=for-the-badge)  
+![Google Chronicle](https://img.shields.io/badge/Google_Chronicle-Threat_Hunting-green?style=for-the-badge)  
+
+---
+### 💻 **Programming**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)  
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+
+
+---
+### 🖥 **Operating Systems**
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)  
+![Parrot Security](https://img.shields.io/badge/Parrot_Security-00a884?style=for-the-badge&logo=parrotlinux&logoColor=white)  
+
 
 ---
 
-## 🏴‍☠️ **GitHub Stats & Contributions**
+## 🚀 **GitHub Stats & Contributions**
 📊 **Activity Graph:**  
 ![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=CRXXTIAN&theme=dracula)  
 
@@ -28,29 +81,8 @@
 
 ---
 
-## 📡 **Top GitHub Repositories**
-![](https://github-contributor-stats.vercel.app/api?username=CRXXTIAN&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)  
-
----
-
-## 🎛 **Cybersecurity Tools & Technologies**
-![Kali Linux](https://img.shields.io/badge/Kali-Linux-%23575757.svg?style=for-the-badge&logo=kalilinux&logoColor=white)  
-![Parrot Security](https://img.shields.io/badge/Parrot-Security-%2300a884.svg?style=for-the-badge&logo=parrotlinux&logoColor=white)  
-![Metasploit](https://img.shields.io/badge/Metasploit-Framework-%23e74c3c.svg?style=for-the-badge&logo=metasploit&logoColor=white)  
-![Burp Suite](https://img.shields.io/badge/Burp-Suite-%23FF6C37.svg?style=for-the-badge&logo=burp-suite&logoColor=white)  
-![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analysis-%23007ACC.svg?style=for-the-badge&logo=wireshark&logoColor=white)  
-![Nmap](https://img.shields.io/badge/Nmap-Scanner-%23green.svg?style=for-the-badge&logo=nmap&logoColor=white)  
-![Recon-ng](https://img.shields.io/badge/Recon--ng-OSINT-blue?style=for-the-badge)  
-![Hydra](https://img.shields.io/badge/Hydra-Password%20Cracking-red?style=for-the-badge)  
-
----
-
-## 🎭 **Dark Hacker Vibes**
-💀 **Hacker GIFs**  
-![Matrix](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)  
-
-🚨 **"Hacker Not Found" Error**  
-![404 Hacker Not Found](https://user-images.githubusercontent.com/6877780/118053529-e31e7100-b345-11eb-900b-4f07e35b15eb.gif)  
+![](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)  
+![](https://media.tenor.com/Mfw-y4gYsIkAAAAM/hacker-hamster.gif)  
 
 ---
 
@@ -58,11 +90,3 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 
 ---
-
-## ☕ **Buy Me A Coffee**
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/CRXXTIAN)  
-
----
-
-## 🚀 **Fork Now & Hack The Planet!**
-🔗 **GitHub:** [https://github.com/CRXXTIAN](https://github.com/CRXXTIAN)  
