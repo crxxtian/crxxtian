@@ -19,11 +19,7 @@
 ### 🔥 **Offensive Security (Red Team)**
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6C37?style=for-the-badge&logo=burp-suite&logoColor=white)  
 ![Metasploit](https://img.shields.io/badge/Metasploit-Blue?style=for-the-badge&logo=metasploit&logoColor=white)  
-![Cobalt Strike](https://img.shields.io/badge/Cobalt_Strike-Black?style=for-the-badge)  
 ![BloodHound](https://img.shields.io/badge/BloodHound-Active_Directory-blue?style=for-the-badge)  
-![CrackMapExec](https://img.shields.io/badge/CrackMapExec-Purple?style=for-the-badge)  
-![Mimikatz](https://img.shields.io/badge/Mimikatz-Red?style=for-the-badge)  
-![Impacket](https://img.shields.io/badge/Impacket-Yellow?style=for-the-badge)  
 ![Responder](https://img.shields.io/badge/Responder-LLMNR_NBT-FF0000?style=for-the-badge)  
 ![Rubeus](https://img.shields.io/badge/Rubeus-Kerberos_Golden_Ticket-darkred?style=for-the-badge)  
 ![PowerView](https://img.shields.io/badge/PowerView-Active_Directory_Enum-blue?style=for-the-badge)  
