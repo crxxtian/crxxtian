@@ -68,18 +68,20 @@
 ---
 
 ## 🚀 **GitHub Stats & Contributions**
-
 ![](https://github-readme-activity-graph.vercel.app/graph?username=CRXXTIAN&theme=dracula)  
 
-
 ![](https://github-readme-stats.vercel.app/api?username=CRXXTIAN&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)  
-
 
 ![](https://github-profile-trophy.vercel.app/?username=CRXXTIAN&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)  
 
 ---
 
-![](https://i.giphy.com/o0vwzuFwCGAFO.webp)  
-![](https://media.tenor.com/Mfw-y4gYsIkAAAAM/hacker-hamster.gif)  
+<p align="center">
+  <img src="https://i.giphy.com/o0vwzuFwCGAFO.webp" width="300px">
+  <img src="https://media.tenor.com/Mfw-y4gYsIkAAAAM/hacker-hamster.gif" width="300px">
+</p>
 
 ---
+
+![](https://komarev.com/ghpvc/?username=CRXXTIAN&color=blue&style=flat-square)
+
