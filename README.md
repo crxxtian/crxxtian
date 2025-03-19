@@ -15,7 +15,10 @@
 - ⚔️ Passion for all things cyber.  
 - 💡 Always breaking, fixing, and learning.
 
-Some tools I have experience in:
+
+---
+
+**Some tools I have experience in:**
 
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6C37?style=for-the-badge&logo=burp-suite&logoColor=white)  
 ![Metasploit](https://img.shields.io/badge/Metasploit-Blue?style=for-the-badge&logo=metasploit&logoColor=white)  
@@ -30,8 +33,10 @@ Some tools I have experience in:
 ![Azure Sentinel](https://img.shields.io/badge/Azure_Sentinel-Threat_Intelligence-blue?style=for-the-badge)  
 ![Google Chronicle](https://img.shields.io/badge/Google_Chronicle-Threat_Hunting-green?style=for-the-badge)  
 
+---
 
-I've done some programming using:
+
+**I've done some programming using:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
