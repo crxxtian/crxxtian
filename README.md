@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F70000&width=600&lines=Cybersecurity+Student+%26+Engineer;Web+Hacking+Enthusiast;CTF+Addict)](https://git.io/typing-svg)
+[![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F70000&width=600&lines=Cybersecurity+Student+%26+Engineer;Web+Hacking+Enthusiast;CTF+Addict)](https://git.io/typing-svg)
 
 
 <p align="center">
@@ -8,14 +8,14 @@
 
 ---
 
-## 👨‍💻 **Who Am I?**
+## **whoami**
 - 🔍 Security Researcher & Cyber Enthusiast
 - 📜 AWS SAA, AWS CCP, VMware DCV Certified
 - 💻 Programming: Python, Bash, PowerShell, C++, Java, JavaScript  
 - ⚔️ Passion for all things cyber.  
 - 💡 Always breaking, fixing, and learning.
 
-### 🔥 **Offensive Security (Red Team)**
+### **Offensive Security**
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6C37?style=for-the-badge&logo=burp-suite&logoColor=white)  
 ![Metasploit](https://img.shields.io/badge/Metasploit-Blue?style=for-the-badge&logo=metasploit&logoColor=white)  
 ![BloodHound](https://img.shields.io/badge/BloodHound-Active_Directory-blue?style=for-the-badge)  
@@ -26,7 +26,7 @@
 ![nmap](https://img.shields.io/badge/nmap-Network_Scanner-1E74BB?style=for-the-badge&logo=nmap&logoColor=white)  
 
 ---
-### 🛡 **Defensive Security (Blue Team)**
+### **Defensive Security**
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)  
 ![CrowdStrike](https://img.shields.io/badge/CrowdStrike-FF0000?style=for-the-badge)  
 ![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)  
@@ -36,7 +36,7 @@
 ![Tripwire](https://img.shields.io/badge/Tripwire-File_Integrity_Monitoring-FF6C37?style=for-the-badge)  
 
 ---
-### ☁ **Cloud & Virtualization**
+### **Cloud & Virtualization**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)  
@@ -44,7 +44,7 @@
 ![Google Chronicle](https://img.shields.io/badge/Google_Chronicle-Threat_Hunting-green?style=for-the-badge)  
 
 ---
-### 💻 **Programming**
+### **Programming**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)  
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)  
@@ -54,7 +54,7 @@
 
 
 ---
-### 🖥 **Operating Systems**
+### **Operating Systems**
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)  
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  
@@ -63,24 +63,23 @@
 
 ---
 
-## 🚀 **GitHub Stats & Contributions**
-📊 **Activity Graph:**  
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=CRXXTIAN&theme=dracula)  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 
-🔥 **Stats:**  
+---
+
+## 🚀 **GitHub Stats & Contributions**
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=CRXXTIAN&theme=dracula)  
+
+
 ![](https://github-readme-stats.vercel.app/api?username=CRXXTIAN&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)  
 
-🏆 **Trophies:**  
+
 ![](https://github-profile-trophy.vercel.app/?username=CRXXTIAN&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)  
 
 ---
 
 ![](https://i.giphy.com/o0vwzuFwCGAFO.webp)  
 ![](https://media.tenor.com/Mfw-y4gYsIkAAAAM/hacker-hamster.gif)  
-
----
-
-## ✍️ **Random Cybersecurity Quote**
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 
 ---
