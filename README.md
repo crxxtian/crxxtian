@@ -1,5 +1,6 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F70000&width=600&lines=Cybersecurity+Engineer;Red+Teamer+%7C+OSINT+Investigator;Exploit+Development+%7C+Threat+Hunting)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F70000&width=600&lines=Cybersecurity+Student+%26+Engineer;Web+Hacking+Enthusiast;CTF+Addict)](https://git.io/typing-svg)
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200px">
