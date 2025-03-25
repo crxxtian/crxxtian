@@ -9,16 +9,16 @@
 ---
 
 ## **whoami**
-- 🔍 Security Researcher & Cyber Enthusiast
-- 📜 AWS SAA, AWS CCP, VMware DCV Certified
-- 💻 Programming: Python, Bash, PowerShell, C++, Java, JavaScript  
-- ⚔️ Passion for all things cyber.  
-- 💡 Always breaking, fixing, and learning.
+- Security Researcher & Cyber Enthusiast
+- AWS SAA, AWS CCP, VMware DCV Certified
+- Programming: Python, Bash, PowerShell, C++, Java, JavaScript  
+- Passion for all things cyber.  
+- Always breaking, fixing, and learning.
 
 
 ---
 
-**Some tools I have experience with:**
+**Some of the tools I have experience with:**
 
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6C37?style=for-the-badge&logo=burp-suite&logoColor=white)  
 ![Metasploit](https://img.shields.io/badge/Metasploit-Blue?style=for-the-badge&logo=metasploit&logoColor=white)  
