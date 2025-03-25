@@ -14,6 +14,7 @@
 - Programming: Python, Bash, PowerShell, C++, Java, JavaScript  
 - Passion for all things cyber.  
 - Always breaking, fixing, and learning.
+- Still trying to find my specialty.
 
 
 ---
