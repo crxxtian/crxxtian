@@ -12,8 +12,8 @@
 - Cybersecurity Student, Researcher, and Analyst.
 - AWS SAA, AWS CCP, VMware DCV Certified. (Sec+ soon)
 - Programming: Python, Bash, PowerShell, C++, Java (SpringBoot), SQL, HTML, CSS, JS
-- Passion for all things cyber.  
-- Recently diving into 
+- Passion for all things cyber and finance.  
+- Recently diving into web development and exploitation.
 
 
 ---
