@@ -9,12 +9,11 @@
 ---
 
 ## **whoami**
-- Security Researcher & Cyber Enthusiast
-- AWS SAA, AWS CCP, VMware DCV Certified
-- Programming: Python, Bash, PowerShell, C++, Java, JavaScript  
+- Cybersecurity Student, Researcher, and Analyst.
+- AWS SAA, AWS CCP, VMware DCV Certified. (Sec+ soon)
+- Programming: Python, Bash, PowerShell, C++, Java (SpringBoot), SQL, HTML, CSS, JS
 - Passion for all things cyber.  
-- Always breaking, fixing, and learning.
-- Still trying to find my specialty.
+- Recently diving into 
 
 
 ---
